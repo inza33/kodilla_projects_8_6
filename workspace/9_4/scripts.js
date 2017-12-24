@@ -1,4 +1,4 @@
-function drawTrees(var treeHeight) {
+function drawTrees(treeHeight) {
 	for (var i = 0 ; i < treeHeight ; i++) {
 		var star ="";
 		for (var j = 0 ; j <= i ; j++) {
